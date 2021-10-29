@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Resilient*
+
+_Willingness to learn_
+
+**Determined**
+
+**Kind-hearted**
+
+_Well **versed** in using technology to solve business problem_
